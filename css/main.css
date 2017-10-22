@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Allerta|Squada+One");
+body {
+  background: purple;
+  background: url("../images/asfalt-light.png"), linear-gradient(180deg, purple, steelblue);
+  font-family: "Allerta", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Squada One", cursive;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+img.label {
+  width: 150px;
+}
+
+a {
+  color: #0f0f0f;
+}
